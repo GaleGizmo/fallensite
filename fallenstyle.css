@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100dvh;
+    background: linear-gradient(to bottom, #3EB4B8, #21b0a1);
+}
+h1{
+    color: aliceblue;
+    width: 40%;;
+    font-size: 2em;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
